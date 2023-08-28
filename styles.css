@@ -18,9 +18,10 @@ body{
 }
 
 .hero{
+    background-image: url("https://th.bing.com/th/id/R.a47c8de9e6f879abffb789add46e33c1?rik=ugUef7qhX%2bE1gw&pid=ImgRaw&r=0");
     border: 1px black solid;
     text-align: center;
-    height: 180px;
+    height: 400px;
 }
 
 .main-section{
