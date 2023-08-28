@@ -31,3 +31,13 @@ body{
     border: 1px black solid;
     text-align: center;
 }
+
+.nav-buttons{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    display: inline-block;
+}
