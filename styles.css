@@ -10,8 +10,10 @@ body{
 }
 
 .nav{
-    border: 1px black solid;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+    /*text-align: center;*/
     height: 40px;
 }
 
@@ -35,7 +37,8 @@ body{
 .nav-buttons{
     width: 400px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    align-items: center;
 }
 
 li {
