@@ -1,5 +1,5 @@
 body{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     max-height: 100vh;
     margin: 0 0 0 0;
 
@@ -13,7 +13,7 @@ body{
 .nav{
     display: flex;
     justify-content: center;
-    background-color: azure;
+    background-color: rgb(77, 29, 99);
     text-align: center;
     height: 40px;
 }
@@ -44,6 +44,8 @@ body{
 }
 
 li {
+    color: white;
+    font-size: 20px;
     display: flex;
     display: inline-block;
 }
@@ -52,5 +54,5 @@ li:hover{
     display: flex;
     display: inline-block;
     font-size:large;
-    color:blueviolet;
+    color:rgb(146, 76, 211);
 }
