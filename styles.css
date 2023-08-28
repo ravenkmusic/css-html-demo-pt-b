@@ -1,0 +1,33 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-height: 100vh;
+
+}
+.upper-section{
+    border: 1px black solid;
+    text-align: center;
+    height: 50px;
+}
+
+.nav{
+    border: 1px black solid;
+    text-align: center;
+    height: 40px;
+}
+
+.hero{
+    border: 1px black solid;
+    text-align: center;
+    height: 180px;
+}
+
+.main-section{
+    border: 1px black solid;
+    text-align: center;
+    height: 110px;
+}
+
+.footer{
+    border: 1px black solid;
+    text-align: center;
+}
